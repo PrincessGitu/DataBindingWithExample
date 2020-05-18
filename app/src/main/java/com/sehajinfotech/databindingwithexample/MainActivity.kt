@@ -15,6 +15,7 @@ import kotlin.collections.ArrayList
 
 class MainActivity : AppCompatActivity() {
 
+    //First Code on Github
     var sectionViewModel: SectionViewModel? = null
     var adapter: SectionAdapter? = null
     override fun onCreate(savedInstanceState: Bundle?) {
